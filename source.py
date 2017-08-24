@@ -19,5 +19,5 @@ while True:
         time.sleep(10)
         pygame.mixer.music.stop()
     else:
-        print'no errror!')
+        print('no errror!')
         time.sleep(5)
